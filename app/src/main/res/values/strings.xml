@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Hi, my name is</string>
+    <string name="email">My email address is</string>
+    <string name="birthday">My birthday is</string>
+    <string name="password">My password is</string>
+    <string name="phoneNumber">My phone number is</string>
+    <string name="btnLoadUser">Load new user</string>
+</resources>
