@@ -7,8 +7,8 @@ Esta aplicación para Android está diseñada para mostrar información de usuar
 
 ## Preview 📱
 
-<img src="" width="200" />
-<img src="" width="200" />
+<img src="https://github.com/Rammsk/NTTdata-Android-Challenge/assets/32043629/f2ebb164-4a09-4279-bfad-5ff99d7d20cc" width="200" />
+<img src="https://github.com/Rammsk/NTTdata-Android-Challenge/assets/32043629/86b08925-a9c1-49d9-8411-b41ecf788195" width="200" />
 
 
 ## Características 📱
